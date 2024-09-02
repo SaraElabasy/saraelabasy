@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sara Elabasy
+# Sara Elabasy
 # Problem solving
 ![Problem solving](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
