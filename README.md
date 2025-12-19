@@ -86,8 +86,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=saraelabasy&show_icons=true&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraelabasy&layout=compact&theme=tokyonight" width="48%"/>
 
 </div>
 
